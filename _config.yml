@@ -28,8 +28,8 @@ avatar: "/img/logo.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "about"
-  Author's home: "http://aboveandbeyondhighlights.com"
+  About: "aboutme"
+  Website: "http://aboveandbeyondhighlights.com"
 
 # --- Footer options --- #
 
@@ -38,7 +38,7 @@ navbar-links:
 author:
   name: Above & Beyond Highlights
   email: "a.b.highlights@gmail.com"
-  facebook: "https://www.facebook.com/AboveBeyondHighlights"  # eg. daattali
+  facebook: "http://facebook.com/AboveBeyondHighlights"  # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
