@@ -38,7 +38,7 @@ navbar-links:
 author:
   name: Above & Beyond Highlights
   email: "a.b.highlights@gmail.com"
-  facebook: "http://facebook.com/AboveBeyondHighlights"  # eg. daattali
+  facebook: "AboveBeyondHighlights"  # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
@@ -52,7 +52,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "aboveandbeyondhighlights.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "aboveandbeyondhighlights.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
