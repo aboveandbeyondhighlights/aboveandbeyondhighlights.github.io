@@ -4,13 +4,6 @@ title: About
 subtitle: A little about Above & Beyond Highlights
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Above & Beyond Highlights is owned by a group of specialized individuals.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Our company works with youth, high school, college and professional athletes who are trying to take the next step forward in their careers. It’s simply not enough to have a resume anymore. A highlight tape can create the chance you have always wanted. Above and Beyond highlights is a group of talented individuals who specialize in creating highlight videos. Our employees are former professional, college players and coaches, and video editors who are adept in creating impressive highlight videos for the next level. Above and Beyond gives you the opportunity to put your best foot forward. We know what the next level requires!
