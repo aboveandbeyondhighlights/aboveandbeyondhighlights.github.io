@@ -39,12 +39,13 @@ author:
   name: Above & Beyond Highlights
   email: "a.b.highlights@gmail.com"
   facebook: "AboveBeyondHighlights"  # eg. daattali
-
+  youtube: channel/UCXxvy1z2S5EFVBPkeOA6Ssw?view_as=public
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: true
   email: true
+  youtube: true
   twitter: false
   github: false
   linkedin: false
